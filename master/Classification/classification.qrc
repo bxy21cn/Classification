@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="Classification">
+    <file>Resources/boy.png</file>
+    <file>Resources/classes.png</file>
+    <file>Resources/girl.png</file>
+    <file>Resources/class.png</file>
+    <file>Resources/open.png</file>
+    <file>Resources/save.png</file>
+    <file>Resources/view.png</file>
+    <file>Resources/bg.png</file>
+    <file>Resources/start.png</file>
+  </qresource>
+</RCC>
